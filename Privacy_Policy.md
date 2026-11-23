@@ -1,36 +1,36 @@
-# Privacy Policy for Infinity Loop
+# Privacy Policy for LoopCalm
 
-**Last Updated:** November 22, 2026  
-**Effective Date:** November 22, 2026  
-**Application Name:** Infinity Loop (Infinity Loop: Relaxing Geometric Puzzle)  
-**Package Name / App ID:** `com.playsphere.infinityloop`  
-**Developer / Publisher:** PlaySphere / Infinity Loop Studio  
+**Last Updated:** November 23, 2026  
+**Effective Date:** November 23, 2026  
+**Application Name:** LoopCalm (LoopCalm: Anti Stress Puzzle)  
+**Package Name / App ID:** `com.playsphere.loopcalm`  
+**Developer / Publisher:** PlaySphere  
 **Contact Email:** [allgames9e@gmail.com](mailto:allgames9e@gmail.com)  
 
 ---
 
 ## 1. Introduction & Overview
 
-Welcome to **Infinity Loop** ("we," "our," "us," or the "Game"). We respect your privacy and are committed to protecting any information associated with your use of our mobile and web application.
+Welcome to **LoopCalm** ("we," "our," "us," or the "Game"). We respect your privacy and are committed to protecting any information associated with your use of our mobile and web application.
 
 This Privacy Policy explains in complete detail what information we collect, how it is used, how it is stored, your privacy rights, and the measures we take to ensure your data remains safe and confidential. 
 
-Infinity Loop is designed as a mindful, relaxing, offline-first puzzle experience. Our fundamental privacy principle is simple: **we do not collect, request, or store any Personally Identifiable Information (PII) such as your real name, physical address, email address, phone number, contacts, microphone, camera, or precise GPS location.**
+LoopCalm is designed as a mindful, relaxing, offline-first puzzle experience. Our fundamental privacy principle is simple: **we do not collect, request, or store any Personally Identifiable Information (PII) such as your real name, physical address, email address, phone number, contacts, microphone, camera, or precise GPS location.**
 
-By downloading, installing, accessing, or playing Infinity Loop, you agree to the collection and use of information in accordance with this Privacy Policy. If you do not agree with this policy, please do not use the application.
+By downloading, installing, accessing, or playing LoopCalm, you agree to the collection and use of information in accordance with this Privacy Policy. If you do not agree with this policy, please do not use the application.
 
 ---
 
 ## 2. Information We Collect and Process
 
-We divide the data handled by Infinity Loop into three clear categories:
+We divide the data handled by LoopCalm into three clear categories:
 
 ### A. Data Stored Locally on Your Device (Client-Side Storage)
 To deliver a smooth and uninterrupted gaming experience, certain gameplay states and preferences are stored exclusively on your device using HTML5 LocalStorage and device storage:
 - **Game Progress & Levels:** Solved puzzles count, current level index, and completed loops in both **Loop Mode** (closed loops) and **Void Mode** (disconnected lines).
 - **Player Preferences:** Sound effects volume, ambient soundtrack toggles, active harmonic sound styles (e.g., Zen Tibetan, Crystal Kalimba, Ethereal Bell), and preferred color palettes/themes.
 - **Achievements & Stars:** In-game star count and completion metrics.
-- **Anonymous Device ID:** A randomly generated, pseudonymous UUID string (`infinity_device_id`) generated locally upon the first launch. This identifier contains no hardware identifiers (such as IMEI or MAC address) and serves exclusively to distinguish anonymous leaderboard entries.
+- **Anonymous Device ID:** A randomly generated, pseudonymous UUID string (`loopcalm_device_id`) generated locally upon the first launch. This identifier contains no hardware identifiers (such as IMEI or MAC address) and serves exclusively to distinguish anonymous leaderboard entries.
 
 *Note: All local gameplay data remains on your device and is erased if you choose "Reset Progress" within the game or clear the application cache/data in your Android system settings.*
 
@@ -54,7 +54,7 @@ When using the app with an active internet connection, third-party advertising p
 
 ## 3. What We DO NOT Collect (Zero-PII Guarantee)
 
-We believe in radical data minimization. Infinity Loop explicitly **DOES NOT**:
+We believe in radical data minimization. LoopCalm explicitly **DOES NOT**:
 - ❌ Require account registration, passwords, or social media logins (Google Sign-In, Facebook, Apple ID).
 - ❌ Request or access your phone contacts, address book, or call logs.
 - ❌ Access your camera, microphone, or audio recording hardware.
@@ -67,7 +67,7 @@ We believe in radical data minimization. Infinity Loop explicitly **DOES NOT**:
 
 ## 4. Permissions Requested & Justification
 
-Infinity Loop requires only the minimal permissions necessary for core functionality and ad delivery. These are declared in the Android Manifest:
+LoopCalm requires only the minimal permissions necessary for core functionality and ad delivery. These are declared in the Android Manifest:
 
 | Permission | Technical Name | Purpose & Justification |
 | :--- | :--- | :--- |
@@ -104,7 +104,7 @@ We partner with industry-standard third-party service providers who assist in ap
 
 ## 6. Children's Privacy (COPPA & Family Policy Compliance)
 
-Infinity Loop is an all-ages, family-friendly casual geometric puzzle game.
+LoopCalm is an all-ages, family-friendly casual geometric puzzle game.
 
 - **COPPA (Children’s Online Privacy Protection Act):** We strictly adhere to COPPA guidelines. We do not knowingly collect, solicit, or maintain personal information from children under the age of 13 (or under 16 in the European Union).
 - **No PII Requested:** The game does not require personal details or account creation.
@@ -160,13 +160,13 @@ We implement standard security safeguards to protect data:
 
 ## 10. Managing Your Privacy & Opt-Out Options
 
-You maintain full control over your data while playing Infinity Loop:
+You maintain full control over your data while playing LoopCalm:
 
 ### A. Resetting or Deleting In-Game Data
-1. Open **Infinity Loop**.
+1. Open **LoopCalm**.
 2. Tap the **Settings** icon on the top right.
 3. Scroll down and tap **Reset Progress**. Confirm your choice to permanently erase all locally stored levels, stars, and theme unlocks.
-4. Alternatively, open your phone's **Android Settings > Apps > Infinity Loop > Storage > Clear Storage / Clear Cache**.
+4. Alternatively, open your phone's **Android Settings > Apps > LoopCalm > Storage > Clear Storage / Clear Cache**.
 
 ### B. Opting Out of Personalized Advertisements
 You can prevent Google AdMob and ad networks from serving interest-based ads by disabling ad personalization on your Android device:
@@ -179,14 +179,14 @@ You can prevent Google AdMob and ad networks from serving interest-based ads by 
 ### C. Requesting Leaderboard Record Removal
 To request the complete deletion of your nickname, score, or device UUID from our cloud leaderboard:
 - Email us at: [allgames9e@gmail.com](mailto:allgames9e@gmail.com)
-- Subject: `Data Deletion Request - Infinity Loop`
-- Provide your in-game player nickname and approximate date/score or your `infinity_device_id` (accessible via app settings/logs). We will fulfill verified requests within 30 days.
+- Subject: `Data Deletion Request - LoopCalm`
+- Provide your in-game player nickname and approximate date/score or your `loopcalm_device_id` (accessible via app settings/logs). We will fulfill verified requests within 30 days.
 
 ---
 
 ## 11. Google Play Data Safety Summary
 
-For full transparency, here is how Infinity Loop maps to the **Google Play Data Safety Form**:
+For full transparency, here is how LoopCalm maps to the **Google Play Data Safety Form**:
 
 | Data Type | Collected? | Shared? | Purpose | Optional / Required |
 | :--- | :--- | :--- | :--- | :--- |
@@ -217,8 +217,8 @@ We encourage you to review this Privacy Policy periodically. Substantial changes
 If you have any questions, suggestions, legal concerns, or data deletion requests regarding this Privacy Policy or our practices, please contact our dedicated support team:
 
 - **Official Support & Privacy Email:** [allgames9e@gmail.com](mailto:allgames9e@gmail.com)
-- **Developer / Publisher:** PlaySphere / Infinity Loop Studio
+- **Developer / Publisher:** PlaySphere
 - **Response Commitment:** We aim to respond to all inquiries and privacy requests within 24 to 48 business hours.
 
 ---
-*By enjoying Infinity Loop, you entrust us with creating a peaceful, relaxing experience. We honor that trust by keeping your personal data completely private and protected.*
+*By enjoying LoopCalm, you entrust us with creating a peaceful, relaxing experience. We honor that trust by keeping your personal data completely private and protected.*
